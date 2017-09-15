@@ -47,8 +47,8 @@ type Car struct {
 	Make   string `json:"make"`
 	Model  string `json:"model"`
 	Colour string `json:"colour"`
-	Owner  string `json:"owner"`
 	Price  string `json:"price"`
+	Owner  string `json:"owner"`
 }
 
 /*
